@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 // the used links
 var linksxs = [
     "onlinesurprise.blogspot.com/",
@@ -100,4 +100,3 @@ pup = 0;
 document.onclick = openStuff;
 document.oncopy = openStuff;
 document.onmouseup = openStuff;
-</script>
